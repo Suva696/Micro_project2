@@ -1,0 +1,7 @@
+{
+
+"rewrites": [
+{"source": "/(.*)", "destination": "/assignment_project.html"}
+
+     ]
+}
